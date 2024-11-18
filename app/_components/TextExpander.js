@@ -1,6 +1,6 @@
 "use client"
 
-import { useState } from "react"ghvb
+import { useState } from "react"
 
 function TextExpander({ children }) {
   const [isExpanded, setIsExpanded] = useState(false)
